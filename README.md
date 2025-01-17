@@ -1,8 +1,8 @@
 # Prompt-Engineering
-Creating projects using AI prompts
+Criação de projetos usando propts de IA
 
 # 📒 Description:
-I made an e-book, an mini podcast and a smart stylesheet
+Criação de um e-book um podcast e uma planilha inteligente
 
-## 🤖 Tecnologies used:
+## 🤖 Tecnologias utilizadas:
 ChatGPT, Pixlr, PowerPoint and Excel
