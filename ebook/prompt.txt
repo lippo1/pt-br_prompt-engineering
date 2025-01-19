@@ -1,0 +1,4 @@
+prompt dos comandos no chatGPT: https://chatgpt.com/share/678c8fb7-8710-800b-ad20-59bf7a1bb559
+
+pixlr image:
+create an image with an man programming something on his pc (it can be python, R or sql), the screen must have some graphs and the image shows the man sitting in his chair making some changes in the graph
